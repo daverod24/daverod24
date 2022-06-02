@@ -19,7 +19,7 @@ Las herramientas que utilizo para hacer mi trabajo normalmente
 - He Participado en varios proyectos en los que he visto varias tecnologías desde
 **Blockchain, Microservicios, CI/CD, IaaC en ambientes de nube y om premise.**
 
-- 🚀 Actualmente estoy trabajando en [Avantica](https://www.avantica.com/es/)
+- 🚀 Actualmente estoy trabajando en [Encora](https://www.encora.com/)
 
 - 👯  Estoy buscando colaborar en proyectos Open Source y proyectos disruptivos.
 
@@ -53,7 +53,7 @@ The tools I use to do my job normally
 
 I have participated in several projects in which I have seen various technologies from **Blockchain, Microservices, CI / CD, IaaC in cloud environments and om premise.**
 
-- 🚀 I'm currently working at [Avantica](https://www.avantica.com/es/)
+- 🚀 I'm currently working at [Encora](https://www.encora.com/)
 
 - 👯 I'm looking to collaborate on Open Source projects and disruptive projects.
 
