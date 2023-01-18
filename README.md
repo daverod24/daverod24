@@ -26,6 +26,7 @@ I have participated in several projects in which I have seen various technologie
 - 📫 How to contact me:
 
 - [Linkedin](https://www.linkedin.com/in/david-rodriguez-la-riva/)
+- [buymeacoffee](https://www.buymeacoffee.com/daverod24)
 - [Email](drodriguezlariva@gmail.com)
 
 
@@ -68,5 +69,6 @@ de blockchains y criptomonedas.
 - 📫 Cómo contactarme:
 
 - [Linkedin](https://www.linkedin.com/in/david-rodriguez-la-riva/)
+- [buymeacoffee](https://www.buymeacoffee.com/daverod24)
 - [Email](drodriguezlariva@gmail.com)
 
