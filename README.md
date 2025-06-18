@@ -1,160 +1,155 @@
-# Hi there, I am David Rodriguez 👋  - @daverod24
+# Hi there, I'm David Rodriguez 👋 - @daverod24
 
-<img align="right" alt="pngcat" height="160px" src="(https://octodex.github.com/images/megacat-2.png)" />
+<img align="right" alt="pngcat" height="160px" src="https://octodex.github.com/images/megacat-2.png" />
+
+I'm a **GenAI & Cloud DevOps Engineer** with over 8 years of experience, passionate about building intelligent, automated, and scalable infrastructure. I specialize in bridging the gap between DevOps and AI, creating production-ready Generative AI systems and optimizing cloud environments across **Azure, AWS, and GCP**.
 
 :computer: DevOps
 :venezuela: :peru: From Venezuela y peru
 
-I started using Free Software because it is the easiest way for me to develop new things and use my creativity, but at the same time, I always try to update myself, learning new things online.
+- 🚀 I transform traditional infrastructure using AI, driving up to **40% faster deployments** and **25% cost savings**.
+- 🤖 I build practical GenAI solutions with **LangChain, CrewAI, and RAG** to solve real-world problems.
+- ☁️ I architect and manage robust multi-cloud platforms using **Kubernetes, Terraform, and GitOps**.
+- 💡 I'm always exploring new technologies. Currently, I'm diving deeper into **Azure Databricks** to enhance data-driven AI solutions.
 
-This includes: Financial literacy, cooking, mindfulness, infra code, programming, Lean, creative writing, and more.
+---
 
-- 🔭 I am currently using and learning more from:
-The tools I use to do my job normally
+### 🛠️ What I'm Currently Focused On
 
-#ansible #terraform #jenkins #docker #kubernetes #vim #vscode #devops #azure #aws #web3 
+- **Building AI-Powered DevOps Agents:** Creating multi-agent systems with **CrewAI** to automate complex tasks like infrastructure diagnostics and monitoring.
+- **Developing Enterprise RAG Systems:** Implementing RAG pipelines with **LangChain & LlamaIndex** for intelligent document querying, integrated with tools like Telegram.
+- **Automating Workflows:** Using **n8n** to connect LLMs with enterprise tools (Notion, Slack, CRMs) for seamless process automation.
+- 👯 I'm looking to collaborate on Open Source and disruptive projects where I can contribute my skills in AI and infrastructure.
 
-I have participated in several projects in which I have seen various technologies from **Blockchain, Microservices, CI / CD, IaaC in cloud environments and om premise.**
+---
 
-- 🚀 I'm currently working at [personal projects](https://github.com/daverod24)
+### 🔧 My Go-To Tech Stack
 
-- 👯 I'm looking to collaborate on Open Source projects and disruptive projects.
-
-- 💭 Ask me what you need.
-
-- 😄 Fun Facts: One of my Hobbies is Dancing Salsa, Bachata and driving go-karts. I am an enthusiast of blockchains and cryptocurrencies.
-
-
+#### 🤖 Generative AI & MLOps
 <p>
-<img src="https://github-readme-stats-nine-ashen.vercel.app/api?username=daverod24&show_icons=true&count_private=true&theme=synthwave" width="400" align="center" alt="my stats" >
+    <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
+    <img src="https://img.shields.io/badge/LangChain-4A90E2?style=for-the-badge" alt="LangChain"/>
+    <img src="https://img.shields.io/badge/CrewAI-228B22?style=for-the-badge" alt="CrewAI"/>
+    <img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white" alt="OpenAI"/>
+    <img src="https://img.shields.io/badge/Pinecone-3B77E6?style=for-the-badge&logo=pinecone&logoColor=white" alt="Pinecone"/>
+    <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL"/>
 </p>
 
-## Tech Stack
+#### ☁️ Cloud & Infrastructure
+<p>
+    <img src="https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white" alt="Azure"/>
+    <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS"/>
+    <img src="https://img.shields.io/badge/GCP-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white" alt="GCP"/>
+    <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" alt="Kubernetes"/>
+    <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/>
+    <img src="https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white" alt="Terraform"/>
+    <img src="https://img.shields.io/badge/Ansible-EE0000?style=for-the-badge&logo=ansible&logoColor=white" alt="Ansible"/>
+</p>
 
-### _Languages:_
+#### ⚙️ CI/CD & Automation
+<p>
+    <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white" alt="GitHub Actions"/>
+    <img src="https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white" alt="Jenkins"/>
+    <img src="https://img.shields.io/badge/ArgoCD-EF7B4D?style=for-the-badge&logo=argo&logoColor=white" alt="ArgoCD"/>
+    <img src="https://img.shields.io/badge/n8n-1A8272?style=for-the-badge&logo=n8n&logoColor=white" alt="n8n"/>
+</p>
 
-![image](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![image](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![image](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
-![image](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![image](https://img.shields.io/badge/Groovy-3786BB?style=for-the-badge&logo=groovy&logoColor=white)
-![image](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+---
 
-### _Frameworks and Technologies:_
+<p align="center">
+  <img src="https://github-readme-stats-nine-ashen.vercel.app/api?username=daverod24&show_icons=true&count_private=true&theme=synthwave" width="400" alt="my stats" />
+</p>
 
-![image](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![image](https://img.shields.io/badge/Terraform-593D88?style=for-the-badge&logo=terraform&logoColor=white)
-![image](https://img.shields.io/badge/Ansible-593D88?style=for-the-badge&logo=ansible&logoColor=white)
-![image](https://img.shields.io/badge/Flask-FF2D20?style=for-the-badge&logo=flask&logoColor=white)
-![image](https://img.shields.io/badge/Jenkins-FF2D20?style=for-the-badge&logo=jenkins&logoColor=white)
-![image](https://img.shields.io/badge/Kubernetes-FF2D20?style=for-the-badge&logo=kubernetes&logoColor=white)
-![image](https://img.shields.io/badge/Docker-FF2D20?style=for-the-badge&logo=docker&logoColor=white)
+---
 
+### 📫 Let's Connect!
 
-### _Styling Frameworks:_
+- 💭 Ask me anything, I'm happy to help.
+- 📫 How to reach me: **drodriguezlariva@gmail.com**
+- 🔗 [LinkedIn](https://www.linkedin.com/in/david-rodriguez-la-riva/)
+- ☕ [Buy me a coffee](https://www.buymeacoffee.com/daverod24)
 
-![image](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
-![image](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white)
+😄 **Fun Fact:** When I'm not automating infrastructure or building AI agents, I enjoy dancing Salsa & Bachata and driving go-karts!
 
-### _Databases:_
-
-![image](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![image](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
-
-### _Testing:_
-
-![image](https://img.shields.io/badge/Selenium-C21325?style=for-the-badge&logo=selenium&logoColor=white)
-
-
-## Contact
-
-- 📫 How to contact me:
-
-- [Linkedin](https://www.linkedin.com/in/david-rodriguez-la-riva/)
-- [buymeacoffee](https://www.buymeacoffee.com/daverod24)
-- [Email](drodriguezlariva@gmail.com)
-
-
-<img src="https://media.giphy.com/media/vzO0Vc8b2VBLi/giphy.gif" width="250" height="250"/>
+<p align="center">
+  <img src="https://media.giphy.com/media/vzO0Vc8b2VBLi/giphy.gif" width="250" height="250"/>
+</p>
 ---------------
 
 
-### Hola 👋
+# ¡Hola! Soy David Rodriguez 👋 - @daverod24
 
-Comencé a usar Software Libre porque es la forma más fácil para mí, de desarrollar
-cosas nuevas y usar mi creatividad pero, al mismo tiempo, Siempre trato de
-actualizarme, aprendiendo cosas nuevas por Internet.
+<img align="right" alt="pngcat" height="160px" src="https://octodex.github.com/images/megacat-2.png" />
 
-Esto incluye: Educacion financiera, cocina, mindfulness, infra como codigo, programacion, Lean, escritura
-creativa y más.
+Soy **Ingeniero en GenAI & Cloud DevOps** con más de 8 años de experiencia, apasionado por construir infraestructuras inteligentes, automatizadas y escalables. Me especializo en unir DevOps y la IA, creando sistemas de Generative AI listos para producción y optimizando entornos cloud en **Azure, AWS y GCP**.
 
-- 🔭 Actualmente estoy usando y aprendiendo mas de:
+:computer: DevOps
+:venezuela: :peru: From Venezuela y peru
 
-Las herramientas que utilizo para hacer mi trabajo normalmente
+- 🚀 Transformo infraestructuras tradicionales usando IA, logrando hasta **40% despliegues más rápidos** y **25% de ahorro en costos**.
+- 🤖 Construyo soluciones GenAI prácticas con **LangChain, CrewAI y RAG** para resolver problemas reales.
+- ☁️ Diseño y gestiono plataformas multi-nube robustas usando **Kubernetes, Terraform y GitOps**.
+- 💡 Siempre exploro nuevas tecnologías. Actualmente, profundizo en **Azure Databricks** para potenciar soluciones de IA basadas en datos.
 
-#ansible #terraform #jenkins #docker #kubernetes #vim #vscode #devops #azure #aws #web3 
+---
 
+### 🛠️ En Qué Estoy Enfocado Actualmente
 
-- He Participado en varios proyectos en los que he visto varias tecnologías desde
-**Blockchain, Microservicios, CI/CD, IaaC en ambientes de nube y om premise.**
+- **Construcción de Agentes DevOps con IA:** Creando sistemas multi-agente con **CrewAI** para automatizar tareas complejas como diagnóstico y monitoreo de infraestructura.
+- **Desarrollo de Sistemas RAG Empresariales:** Implementando pipelines RAG con **LangChain & LlamaIndex** para consultas inteligentes de documentos, integrados con herramientas como Telegram.
+- **Automatización de Flujos de Trabajo:** Usando **n8n** para conectar LLMs con herramientas empresariales (Notion, Slack, CRMs) y lograr automatización de procesos sin fricción.
+- 👯 Busco colaborar en proyectos Open Source y disruptivos donde pueda aportar mis habilidades en IA e infraestructura.
 
-- 🚀 Actualmente estoy trabajando en [proyecto personal](https://github.com/daverod24)
+---
 
-- 👯  Estoy buscando colaborar en proyectos Open Source y proyectos disruptivos.
+### 🔧 Mi Stack Tecnológico Favorito
 
-- 💭 Pregúntame Lo que necesites.
-
-
-- 😄 **Datos curioso:**
-Uno de mis Hobbies es Bailar Salsa, Bachata y manejar go-karts. Soy entusiasta
-de blockchains y criptomonedas.
-
+#### 🤖 Generative AI & MLOps
 <p>
-<img src="https://github-readme-stats-nine-ashen.vercel.app/api?username=daverod24&show_icons=true&count_private=true&theme=synthwave" width="400" align="center" alt="my stats" >
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
+  <img src="https://img.shields.io/badge/LangChain-4A90E2?style=for-the-badge" alt="LangChain"/>
+  <img src="https://img.shields.io/badge/CrewAI-228B22?style=for-the-badge" alt="CrewAI"/>
+  <img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white" alt="OpenAI"/>
+  <img src="https://img.shields.io/badge/Pinecone-3B77E6?style=for-the-badge&logo=pinecone&logoColor=white" alt="Pinecone"/>
+  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL"/>
 </p>
 
-## Tech Stack
+#### ☁️ Cloud & Infraestructura
+<p>
+  <img src="https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white" alt="Azure"/>
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS"/>
+  <img src="https://img.shields.io/badge/GCP-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white" alt="GCP"/>
+  <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" alt="Kubernetes"/>
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/>
+  <img src="https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white" alt="Terraform"/>
+  <img src="https://img.shields.io/badge/Ansible-EE0000?style=for-the-badge&logo=ansible&logoColor=white" alt="Ansible"/>
+</p>
 
-### _Languages:_
+#### ⚙️ CI/CD & Automatización
+<p>
+  <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white" alt="GitHub Actions"/>
+  <img src="https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white" alt="Jenkins"/>
+  <img src="https://img.shields.io/badge/ArgoCD-EF7B4D?style=for-the-badge&logo=argo&logoColor=white" alt="ArgoCD"/>
+  <img src="https://img.shields.io/badge/n8n-1A8272?style=for-the-badge&logo=n8n&logoColor=white" alt="n8n"/>
+</p>
 
-![image](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![image](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![image](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
-![image](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![image](https://img.shields.io/badge/Groovy-3786BB?style=for-the-badge&logo=groovy&logoColor=white)
-![image](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+---
 
-### _Frameworks and Technologies:_
+<p align="center">
+  <img src="https://github-readme-stats-nine-ashen.vercel.app/api?username=daverod24&show_icons=true&count_private=true&theme=synthwave" width="400" alt="mis estadísticas" />
+</p>
 
-![image](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![image](https://img.shields.io/badge/Terraform-593D88?style=for-the-badge&logo=terraform&logoColor=white)
-![image](https://img.shields.io/badge/Ansible-593D88?style=for-the-badge&logo=ansible&logoColor=white)
-![image](https://img.shields.io/badge/Flask-FF2D20?style=for-the-badge&logo=flask&logoColor=white)
-![image](https://img.shields.io/badge/Jenkins-FF2D20?style=for-the-badge&logo=jenkins&logoColor=white)
-![image](https://img.shields.io/badge/Kubernetes-FF2D20?style=for-the-badge&logo=kubernetes&logoColor=white)
-![image](https://img.shields.io/badge/Docker-FF2D20?style=for-the-badge&logo=docker&logoColor=white)
+---
 
+### 📫 ¡Conectemos!
 
-### _Styling Frameworks:_
+- 💭 Pregúntame lo que quieras, estaré encantado de ayudar.
+- 📫 Cómo contactarme: **drodriguezlariva@gmail.com**
+- 🔗 [LinkedIn](https://www.linkedin.com/in/david-rodriguez-la-riva/)
+- ☕ [Invítame un café](https://www.buymeacoffee.com/daverod24)
 
-![image](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
-![image](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white)
+😄 **Dato curioso:** Cuando no estoy automatizando infraestructura o creando agentes de IA, disfruto bailar Salsa & Bachata y manejar go-karts.
 
-### _Databases:_
-
-![image](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![image](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
-
-### _Testing:_
-
-![image](https://img.shields.io/badge/Selenium-C21325?style=for-the-badge&logo=selenium&logoColor=white)
-
-
-## Contacto
-
-- 📫 Cómo contactarme:
-
-- [Linkedin](https://www.linkedin.com/in/david-rodriguez-la-riva/)
-- [buymeacoffee](https://www.buymeacoffee.com/daverod24)
-- [Email](drodriguezlariva@gmail.com)
-
+<p align="center">
+  <img src="https://media.giphy.com/media/vzO0Vc8b2VBLi/giphy.gif" width="250" height="250"/>
+</p>
